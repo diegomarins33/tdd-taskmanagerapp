@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\TaskManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A16A48-9E64-4246-9B40-33CE762F8444}|..\\TaskManagerAppTests\\TaskManagerAppTests.csproj|c:\\dev\\taskmanagerapptests\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C412C7EF-50E2-4AE7-AD50-B0ED91C1FF8D}|TaskManagerApp.csproj|c:\\dev\\taskmanagerapp\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C412C7EF-50E2-4AE7-AD50-B0ED91C1FF8D}|TaskManagerApp.csproj|solutionrelative:taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C412C7EF-50E2-4AE7-AD50-B0ED91C1FF8D}|TaskManagerApp.csproj|c:\\dev\\taskmanagerapp\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C412C7EF-50E2-4AE7-AD50-B0ED91C1FF8D}|TaskManagerApp.csproj|solutionrelative:taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C412C7EF-50E2-4AE7-AD50-B0ED91C1FF8D}|TaskManagerApp.csproj|c:\\dev\\taskmanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C412C7EF-50E2-4AE7-AD50-B0ED91C1FF8D}|TaskManagerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\TaskManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\TaskManagerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:05:57.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\dev\\TaskManagerApp\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManager.cs",
+              "ToolTip": "C:\\dev\\TaskManagerApp\\TaskManager.cs",
+              "RelativeToolTip": "TaskManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:10:34.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\dev\\TaskManagerApp\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TaskModel.cs",
+              "ToolTip": "C:\\dev\\TaskManagerApp\\TaskModel.cs",
+              "RelativeToolTip": "TaskModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:09:05.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagerTests.cs",
+              "DocumentMoniker": "C:\\dev\\TaskManagerAppTests\\TaskManagerTests.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerAppTests\\TaskManagerTests.cs",
+              "ToolTip": "C:\\dev\\TaskManagerAppTests\\TaskManagerTests.cs",
+              "RelativeToolTip": "..\\TaskManagerAppTests\\TaskManagerTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:55:56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

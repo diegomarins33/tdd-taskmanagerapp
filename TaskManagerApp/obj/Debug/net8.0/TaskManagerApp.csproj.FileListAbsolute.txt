@@ -1,0 +1,14 @@
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfoInputs.cache
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.AssemblyInfo.cs
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.csproj.CoreCompileInputs.cache
+C:\dev\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.exe
+C:\dev\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.deps.json
+C:\dev\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.runtimeconfig.json
+C:\dev\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.dll
+C:\dev\TaskManagerApp\bin\Debug\net8.0\TaskManagerApp.pdb
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.dll
+C:\dev\TaskManagerApp\obj\Debug\net8.0\refint\TaskManagerApp.dll
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.pdb
+C:\dev\TaskManagerApp\obj\Debug\net8.0\TaskManagerApp.genruntimeconfig.cache
+C:\dev\TaskManagerApp\obj\Debug\net8.0\ref\TaskManagerApp.dll
